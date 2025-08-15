@@ -14,3 +14,5 @@ To address this critical issue, our project proposes the design and development 
 -> Integration with mobile apps or IoT platforms for remote supervision
 
 -> By combining technology with healthcare needs, this project aims to improve medication adherence, enhance patient safety, and provide peace of mind for caregivers and families
+
+# Project Demo:- https://www.youtube.com/watch?v=Zdr2R3x271k
